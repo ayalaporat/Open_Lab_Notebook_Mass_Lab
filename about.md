@@ -6,7 +6,7 @@ permalink: /about/
 
 ### More Information
 
-[Mass Lab Website](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/)  
+Ayal Porat is a Ph.D. candidate in the Mass Lab, working on the coral communities on artificial reefs in the Red Sea, Eilat, Israel. 
 
 ### Contact
 
